@@ -60,7 +60,7 @@ before_after_ot_fid.png — OT & FID bar charts (baseline vs OT-enhanced).
 
 epoch_compare_* — OT/FID vs epoch (before/after).
 
-combined_* — passive stress tests (noise / missing classes).
+combined_* — passive stress tests (noise ).
 
 If you only want to inspect results, open CVLAB_25_with_outputs.ipynb locally/Colab.
 If you want to reproduce everything, use CVLAB_25.ipynb.
